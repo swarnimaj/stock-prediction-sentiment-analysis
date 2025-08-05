@@ -175,11 +175,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
    - Analyze confusion matrices
    - Compare model performance
 
-This code represents a comprehensive approach to financial market analysis that combines traditional technical analysis with modern sentiment analysis from social media. It follows best practices in data science and provides a robust framework for understanding the relationship between social media sentiment and stock market movements.
-
 ---------------------------------------------------------------------------------
-
-I'll help you analyze and interpret each of these plots and the provided results.
 
 1. **AAPL Stock Price vs. Daily Mean Sentiment Plot**
 - The blue line represents Apple's stock closing price from 2015 to early 2018
